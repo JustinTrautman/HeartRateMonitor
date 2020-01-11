@@ -24,4 +24,4 @@ When you are finished you should see a heart animating through a SceneKit Scene,
 
 # Build Your Own
 
-[Click here to build your own heart rate monitor for Apple Watch](https://watchcoder.com/2019/08/03/apple-watch-heart-rate-monitor-tutorial/)
+[Click here to build your own heart rate monitor for Apple Watch 👈](https://watchcoder.com/2019/08/03/apple-watch-heart-rate-monitor-tutorial/)
